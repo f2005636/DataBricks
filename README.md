@@ -9,8 +9,8 @@
 * GroupBy
 * Joins 
 
-## Project - Telecom Churn Prediction
+## Project - Telecom Churn Prediction:
 * Logistic regression model to predict probability of Churn 
 
-## Project - Bike Share Prediction
+## Project - Bike Share Prediction:
 * Linear regression model to predict count of Bikes per hour
